@@ -9,8 +9,6 @@ ninth graders which appear to have been altered. The school board turned to Mari
 upholding state-testing standards. By using the Python program and the Pandas library we are able to
 analyze the grades data and uncover some key findings and understand how this affected the overall analysis. 
 
-This information can help auditos like Seth and Tom for current and future election campaigns. 
-
 ## School District Analysis Results:
 
 ### How is the district summary affected?
