@@ -55,3 +55,15 @@ analyze the grades data and uncover some key findings and understand how this af
 			- There is a 3.29% decrease in Passing Math Percentage after replacing the ninth-grade scores
 			- There is a 3.46% decrease in Passing Reading Percentage after replacing the ninth-grade scores
 			- There is a 3.23% decrease in Passing Overall Percentage after replacing the ninth-grade scores	
+
+
+## School District Analysis Summary
+	- There are many changes made in this updated school district analysis after replacing the math and reading scores with
+	  with NaN for the ninth grade at Thomas High School. The following are the four changes made to this analysis file:
+		1. Using a comparison operator to retrieve all the rows with Thomas High School in the "school_name" column of the student_data_df dataframe. 
+		2. Using a comparison operator to retrieve all the rows with the ninth grade in the "grade" column of the student_data_df dataframe. 
+		3. Using logical and comparison operators to retrieve all the rows with the "reading_score" column for Thomas High School ninth graders from the student_data_df dataframe. 
+		4. Using logical and comparison operators to retrieve all the rows with the "math_score" column for Thomas High School ninth graders from the student_data_df dataframe. 
+		5. Replacing the reading and math scores for the ninth graders in Thomas High School with NaNs.
+
+       
